@@ -39,22 +39,7 @@ Microsoft Excel: Data cleaning, validation, duplicate checks, and exploratory an
 Power BI: Data modeling, DAX measures, interactive dashboards, and KPI reporting.
 Data Analysis: Revenue analysis, payment risk assessment, and customer segmentation
 
-## 6. Data Cleaning & Preparation
-
-Before starting the analysis, I identified several data quality issues that could affect the results.
-
-My approach included:
-
-Identifying 348 orders without a matching revenue record.
-Reviewing pending payments to avoid counting unconfirmed transactions as revenue.
-Separating orders with unknown statuses for further investigation.
-Checking delivered orders without payment records.
-Handling refund calculations carefully to avoid misleading averages.
-Using distinct customer counts for customer-level KPIs.
-
-These steps helped establish a more reliable foundation for the analysis.
-
-## 7. Key Business Questions
+## 6. Key Business Questions
 
 The analysis was designed to answer four important business questions:
 
@@ -66,7 +51,7 @@ The analysis was designed to answer four important business questions:
 
 4. Missing Payment Records: How many orders have no corresponding payment record, and are these gaps concentrated in a particular country or category?
 
-## 8. Dashboard Development
+## 7. Dashboard Development
 
 I used Power BI to plan an interactive dashboard that brings together key business metrics and allows stakeholders to explore performance across countries, payment methods, and loyalty tiers.
 
@@ -80,7 +65,7 @@ Country and category-level comparisons
 
 The goal was to make the findings easy to understand and help stakeholders identify areas that need attention.
 
-## 9. Key Findings & Recommendations
+## 8. Key Findings & Recommendations
 
 The final findings will be based on the cleaned data and calculated KPIs.
 
@@ -88,7 +73,7 @@ The analysis will help identify the strongest-performing markets, payment method
 
 Based on these results, I will recommend where the business should focus investment, which payment issues need investigation, and how loyalty performance can inform future strategy.
 
-## 10. Conclusion & Learnings
+## 9. Conclusion & Learnings
 
 This project helped me understand how data quality directly affects business reporting and decision-making.
 
