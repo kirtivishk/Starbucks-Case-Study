@@ -8,7 +8,7 @@ This project focuses on analyzing Starbucks’ global retail operations across s
 
 Using Excel and Power BI, I worked on data cleaning, data quality checks, revenue analysis, payment risk analysis, and customer loyalty performance.
 
-2. Business Problem
+## 2. Business Problem
 
 The business had three separate datasets containing customer, order, and revenue information. However, the data included missing payment records, pending transactions, unknown order statuses, and duplicate customer IDs.
 
@@ -16,13 +16,14 @@ These issues could lead to inaccurate revenue reports and unreliable business de
 
 The main challenge was to clean and connect the data to understand market performance, payment risks, customer loyalty, and missing payment records.
 
-3. Project Objectives
+## 3. Project Objectives
 Identify which country markets offer the strongest opportunities for investment.
 Compare payment-related risks across different payment methods.
 Evaluate revenue performance across customer loyalty tiers.
 Identify orders that have no corresponding payment record.
 Build an interactive Power BI dashboard to support business decisions.
-4. Dataset Overview
+
+## 4. Dataset Overview
 
 The project used three relational datasets:
 
@@ -33,11 +34,12 @@ Revenue	9,652	Paid amounts, refunds, payment status
 
 The datasets were connected using customer IDs and order IDs to create a unified view of business performance.
 
-5. Tools & Technologies
+## 5. Tools & Technologies
 Microsoft Excel: Data cleaning, validation, duplicate checks, and exploratory analysis.
 Power BI: Data modeling, DAX measures, interactive dashboards, and KPI reporting.
-Data Analysis: Revenue analysis, payment risk assessment, and customer segmentation.
-6. Data Cleaning & Preparation
+Data Analysis: Revenue analysis, payment risk assessment, and customer segmentation
+
+## 6. Data Cleaning & Preparation
 
 Before starting the analysis, I identified several data quality issues that could affect the results.
 
@@ -52,7 +54,7 @@ Using distinct customer counts for customer-level KPIs.
 
 These steps helped establish a more reliable foundation for the analysis.
 
-7. Key Business Questions
+## 7. Key Business Questions
 
 The analysis was designed to answer four important business questions:
 
@@ -64,7 +66,7 @@ The analysis was designed to answer four important business questions:
 
 4. Missing Payment Records: How many orders have no corresponding payment record, and are these gaps concentrated in a particular country or category?
 
-8. Dashboard Development
+## 8. Dashboard Development
 
 I used Power BI to plan an interactive dashboard that brings together key business metrics and allows stakeholders to explore performance across countries, payment methods, and loyalty tiers.
 
@@ -78,7 +80,7 @@ Country and category-level comparisons
 
 The goal was to make the findings easy to understand and help stakeholders identify areas that need attention.
 
-9. Key Findings & Recommendations
+## 9. Key Findings & Recommendations
 
 The final findings will be based on the cleaned data and calculated KPIs.
 
@@ -86,7 +88,7 @@ The analysis will help identify the strongest-performing markets, payment method
 
 Based on these results, I will recommend where the business should focus investment, which payment issues need investigation, and how loyalty performance can inform future strategy.
 
-10. Conclusion & Learnings
+## 10. Conclusion & Learnings
 
 This project helped me understand how data quality directly affects business reporting and decision-making.
 
