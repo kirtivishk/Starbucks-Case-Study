@@ -1,8 +1,8 @@
-##Starbucks Global Retail Revenue & Customer Analytics
+## Starbucks Global Retail Revenue & Customer Analytics
 
 Data Analytics Case Study | Excel · Power BI
 
-1. Project Overview
+## 1. Project Overview
 
 This project focuses on analyzing Starbucks’ global retail operations across six country markets. The goal was to transform raw customer, order, and revenue data into meaningful insights that could help business leaders make better decisions.
 
